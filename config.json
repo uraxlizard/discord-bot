@@ -1,0 +1,14 @@
+{
+	"client": {
+		"token": "",
+		"clientId": "",
+		"guildId": ""
+	},
+	"mysql": {
+		"host": "",
+		"port": "",
+		"user": "",
+		"password": "",
+		"database": ""
+	}
+}
